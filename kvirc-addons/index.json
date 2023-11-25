@@ -1,0 +1,16 @@
+[
+	{
+		"id": "newsticker",
+		"name": "Newsticker",
+		"version": "2.0.0",
+		"mail": "pragma [at] kvirc [dot] net",
+		"author": "Szymon Tomasz Stefanek",
+		"desc": "Simple RSS Feed Reader",
+		"home": "",
+		"download": "newsticker-2.0.0.kva",
+		"screen": "",
+		"icon": "newsticker-2.0.0/newsticker_32.png",
+		"release_date": "2011.03.25",
+		"min_version": "4.1.1"
+	}
+]

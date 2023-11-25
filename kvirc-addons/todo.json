@@ -1,0 +1,209 @@
+[
+	{
+		"name": "Auto Away: Automatic Away",
+		"ver": "1.0.0",
+		"min": "3.2.1",
+		"max": "",
+		"author": "Szymon Stefanek",
+		"desc": "Automatically enters away state after a period of inactivity",
+		"url": "autoaway.1.0.0.zip"
+	},
+	{
+		"name": "Chan Ops: Channel Operations",
+		"ver": "1.0.0",
+		"min": "3.2.1",
+		"max": "",
+		"author": "Szymon Stefanek",
+		"desc": "Provides toolbar buttons for several commonly used channel operations",
+		"url": "chanops.1.0.0.zip"
+	},
+	{
+		"name": "Chan Stats: Channel Statistics",
+		"ver": "1.1.1",
+		"min": "3.2.1",
+		"max": "",
+		"author": "g00dsP33D",
+		"desc": "Shows Statistics for a joined channel",
+		"url": "chanstats.1.1.1.zip"
+	},
+	{
+		"name": "Hell Country",
+		"ver": "0.1",
+		"min": "3.2.1",
+		"max": "",
+		"author": "HelLViS69",
+		"desc": "A simple script to know where a host come from",
+		"url": "country.0.1.zip"
+	},
+	{
+		"name": "Cryption",
+		"ver": "1.0.2",
+		"min": "3.2.1",
+		"max": "",
+		"author": "g00dsP33D",
+		"desc": "Automatically enters cryption-data for your crypted objects",
+		"url": "cryption.1.0.2.zip"
+	},
+	{
+		"name": "Ezbounce",
+		"ver": "1.0.0",
+		"min": "3.2.1",
+		"max": "",
+		"author": "Szymon Stefanek",
+		"desc": "Provides shortcuts and toolbar buttons for EZBounce IRC proxy commands",
+		"url": "ezbounce.1.0.0.zip"
+	},
+	{
+		"name": "F4: Forza 4 game",
+		"ver": "0.9",
+		"min": "3.2.1",
+		"max": "",
+		"author": "Grifisx &amp; Noldor",
+		"desc": "A simple one-o-one game",
+		"url": "forza4.0.9.zip"
+	},
+	{
+		"name": "Fserve: An F-Server",
+		"ver": "1.0.0",
+		"min": "3.2.1",
+		"max": "",
+		"author": "assassin",
+		"desc": "A simple F-Server",
+		"url": "fserve.1.0.0.zip"
+	},
+	{
+		"name": "Funny Lol And Write",
+		"ver": "0.1",
+		"min": "3.2.1",
+		"max": "",
+		"author": "Grifisx &amp; HelLViS69",
+		"desc": "A simple script for lol and kiss with F3-F8 keys and for funny writing",
+		"url": "funnylolandwrite.0.1.zip"
+	},
+	{
+		"name": "Hell Mediaplayer",
+		"ver": "0.1",
+		"min": "3.2.1",
+		"max": "",
+		"author": "HelLViS69",
+		"desc": "A simple script for announcing mp3s that are played and sharing option",
+		"url": "mediaplayer.0.1.zip"
+	},
+	{
+		"name": "Mines Weeper",
+		"ver": "1.1.0",
+		"min": "3.2.1",
+		"max": "",
+		"author": "Szymon Stefanek",
+		"desc": "A nice \"time eater\"",
+		"url": "minesweeper-1.1.0.zip"
+	},
+	{
+		"name": "News Ticker: The RSS News Reader",
+		"ver": "1.1.0",
+		"min": "3.2.1",
+		"max": "",
+		"author": "Szymon Stefanek",
+		"desc": "Displays RSS news feeds from various sources",
+		"url": "newsticker-1.1.0.zip"
+	},
+	{
+		"name": "Now Playing: The Media Advertiser",
+		"ver": "1.0.0",
+		"min": "3.2.1",
+		"max": "",
+		"author": "Szymon Stefanek",
+		"desc": "Allows advertising and eventually sharing the currently played media on IRC channels and queries",
+		"url": "nowplaying.1.0.0.zip"
+	},
+	{
+		"name": "Question Manager",
+		"ver": "0.1",
+		"min": "3.2.1",
+		"max": "",
+		"author": "Grifisx &amp; Noldor",
+		"desc": "A simple script to manage public lessons",
+		"url": "questionManager.0.1.zip"
+	},
+	{
+		"name": "Quiz",
+		"ver": "1.0.0",
+		"min": "3.2.1",
+		"max": "",
+		"author": "Szymon Stefanek and HelLViS69",
+		"desc": "Implements a simple Quiz Bot",
+		"url": "quiz.1.0.0.zip"
+	},
+	{
+		"name": "SMS: SMS sender",
+		"ver": "1.9.9",
+		"min": "3.2.1",
+		"max": "",
+		"author": "Grifisx &amp; Noldor",
+		"desc": "Allows sending SMS messages through several web-based services",
+		"url": "sms.1.9.9.zip"
+	},
+	{
+		"name": "The Censor",
+		"ver": "1.0.0",
+		"min": "3.2.1",
+		"max": "",
+		"author": "Grifisx",
+		"desc": "It allows the user to warn, kick, and ban who says forbidden words",
+		"url": "thecensor.1.0.0.zip"
+	},
+	{
+		"name": "Twins Auto Op: auto op/voice/ban",
+		"ver": "1.1",
+		"min": "3.2.3",
+		"max": "",
+		"author": "Ahinu",
+		"desc": "An auto op/voice/ban system for your channels (addon from the Twins script)",
+		"url": "twinsautoop-1.1.zip"
+	},
+	{
+		"name": "Twins Input Color: Colorize your input text",
+		"ver": "1.2",
+		"min": "3.2.4",
+		"max": "",
+		"author": "Ahinu",
+		"desc": "Colorizes your input text in channel, queries and DCC chats (addon from the Twins script)",
+		"url": "twinsinputcolor-1.2.zip"
+	},
+	{
+		"name": "Twins Lag bar: A graphical lag bar",
+		"ver": "1.0",
+		"min": "3.2.4",
+		"max": "",
+		"author": "Ahinu",
+		"desc": "A simple lag bar with three different colors (addon from the Twins script)",
+		"url": "twinslagbar-1.0.zip"
+	},
+	{
+		"name": "Twins Media Player: Control your player and share you music",
+		"ver": "1.4",
+		"min": "3.2.4",
+		"max": "",
+		"author": "Ahinu",
+		"desc": "Remote control your media player with a simple user interface, and offer your music to other users (addon from the Twins script)",
+		"url": "twinsmediaplayer-1.4.zip"
+	},
+	{
+		"name": "Host Check",
+		"ver": "1.0",
+		"min": "3.2.6",
+		"max": "",
+		"author": "",
+		"desc": "Check previous host of an user",
+		"url": "hostcheck.tar.gz"
+	},
+	{
+		"name": "KISS: The KVIrc Icons Style Setup",
+		"ver": "2.1",
+		"min": "3.2.6",
+		"max": "",
+		"author": "HelLViS69",
+		"desc": "Simple icons sets changer. You can choose old icons, new icons with old smiles or new icons",
+		"url": "KISS-2.1.tar.bz2"
+	}
+]
