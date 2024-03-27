@@ -3,7 +3,7 @@
 # kvirc.github.io
 
 ## About
-Welcome to the official KVIrc repository for downloadable addons and themes
+Welcome to the official KVIrc repository for downloadable addons, themes and tutorials
 
 
 ### Quick links
